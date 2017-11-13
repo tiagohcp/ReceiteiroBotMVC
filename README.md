@@ -2,4 +2,4 @@
 
 # ReceiteiroBotMVC
 
-![Alt text](https://imgur.com/a/4Kji1 "Diagrama MVC")
+![Alt text](https://i.imgur.com/lVmBzi3.jpg "Diagrama MVC")
