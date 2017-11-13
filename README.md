@@ -4,7 +4,7 @@
 ![Alt text](https://i.imgur.com/lVmBzi3.jpg "Diagrama MVC")
 
 # Tela de Busca por Ingredientes
-![Alt text](https://i.imgur.com/bfBEMBd.jpg "Ingredientes")
+<h4>![Alt text](https://i.imgur.com/bfBEMBd.jpg "Ingredientes")</h4>
 
 # Menu de Navegação pelas Receitas
 ![Alt text](https://i.imgur.com/1VRj3e7.png "Navegacao")
